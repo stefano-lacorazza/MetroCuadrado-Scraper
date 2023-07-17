@@ -1,394 +1,602 @@
 [
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/10151-M3065223",
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-chico-norte-et.-ii-3-habitaciones-5-banos-4-garajes/10677-M3878533",
         "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-2-banos-1-garajes/11255-M2822451",
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-zipaquira-par-santa-isabel-ii-3-habitaciones-2-banos/14993-M4356780",
         "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos/2162-M2587117",
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-bella-suiza-3-habitaciones-4-banos-3-garajes/2123-M4413589",
         "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/646-3490",
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-belmira-3-habitaciones-4-banos-4-garajes/13436-M4423376",
         "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos-2-garajes/770-M3063722",
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-la-mesa-vereda-anatoli-5-habitaciones-5-banos-4-garajes/755-M4009431",
         "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos-1-garajes/34-61621",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-sopo-incluye-yerbabuena-condominio-aposentos-5-habitaciones-5-banos-4-garajes/10139-M4148036",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-2-habitaciones-3-banos-1-garajes/3147-M2712501",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-tabio-conjunto-monteverde-3-habitaciones-3-banos-2-garajes/3155-M4412900",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-1-banos-1-garajes/5044-2796134",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-banco-central-5-habitaciones-5-banos/871-M3237005",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-2-habitaciones-2-banos-1-garajes/514-69",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-la-ceja-3-habitaciones-3-banos-2-garajes/179-M4467484",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-2-habitaciones-2-banos-1-garajes/514-70",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-sucre-5-habitaciones-5-banos-4-garajes/4830-M2829165",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-3-habitaciones-2-banos-1-garajes/514-68",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-andrea-monte-verde-316_851_6001-2-habitaciones-4-banos-4-garajes/2821-M4422390",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-2-habitaciones-2-banos-1-garajes/514-75",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-armenia-5-habitaciones-5-banos/695-M4157333",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/661-4632",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-encenillos-de-sindamanoy-3-habitaciones-4-banos-4-garajes/3695-M4000419",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/MC26132834",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-andrea-monte-verde-316_851_6001-3-habitaciones-3-banos-4-garajes/2821-M4424808",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-2-habitaciones-2-banos-2-garajes/10323-30860",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cota-incluye-siberia-cota-4-habitaciones-3-banos-1-garajes/14874-M4208326",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-3-banos-2-garajes/175-10745422",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-4-habitaciones-5-banos-3-garajes/14336-M4099112",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-1-habitaciones-2-banos-1-garajes/514-262",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-potosi-3-habitaciones-2-banos-3-garajes/5483-M4472800",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-2-habitaciones-2-banos-1-garajes/514-260",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-medellin-los-naranjos-3-habitaciones-4-banos-2-garajes/687-M4473818",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-3-banos-2-garajes/175-10745421",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-cedritos-3-habitaciones-3-banos-2-garajes/10278-M4329725",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-5-habitaciones-5-banos/MC3014322",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-quinta-camacho-5-habitaciones-3-banos-3-garajes/11203-M4476093",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas/504-1021302",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-el-salitre-3-habitaciones-5-banos-4-garajes/3038-M4475827",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-3-habitaciones-4-banos-2-garajes/4796-3185",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-conjunto-residencial-spacios-zen-4-habitaciones-4-banos-4-garajes/39-M4300362",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-5-habitaciones-4-banos-1-garajes/10278-M2376284",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cota-incluye-siberia-3-habitaciones-5-banos-4-garajes/10897-M4259944",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-2-banos-1-garajes/514-184",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-san-jose-de-bavaria-3-habitaciones-5-banos-4-garajes/10967-M3346776",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-2-banos-1-garajes/514-183",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-hacienda-fontanar-3-habitaciones-4-banos-4-garajes/3155-M3407949",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-1-banos/5044-2835555",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-san-jose-de-bavaria-3-habitaciones-5-banos-4-garajes/10967-M3679176",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/11451-M3039605",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-santa-ana-oriental-4-habitaciones-5-banos-4-garajes/3072-M4414082",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/MC2911090",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-cota-incluye-siberia-parcelas-de-cota-5-habitaciones-5-banos-3-garajes/11203-M2589468",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/920-42150350",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-encenillos-de-sindamanoy-3-habitaciones-3-banos-3-garajes/10062-M3581669",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-3-habitaciones-4-banos-2-garajes/2671-10353",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-4-habitaciones-5-banos-4-garajes/14336-M4205388",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-3-habitaciones-3-banos-2-garajes/10858-M3032603",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-lisboa-3-habitaciones-5-banos-3-garajes/2993-M3513448",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-5-habitaciones-5-banos-2-garajes/342-11376",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-carmen-de-apicala-5-habitaciones-4-banos-4-garajes/159-M2074146",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-el-liston-1-habitaciones-2-banos-1-garajes/514-261",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-niza-norte-3-habitaciones-4-banos-2-garajes/3553-M4422360",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-2-banos-1-garajes/MC2906398",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-mc-andrea-monte-verde-3168516001-3-habitaciones-4-banos-2-garajes/2821-M4207087",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-5-habitaciones-5-banos-2-garajes/MC2883781",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-barranquilla-cn-arrecifes-3-habitaciones-5-banos-2-garajes/15293-M4206875",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-1-habitaciones-1-banos/MC2881689",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-4-habitaciones-5-banos-4-garajes/10967-M4421610",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-1-banos-1-garajes/MC2827156",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-4-habitaciones-4-banos-4-garajes/10967-M4421637",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-2-habitaciones-1-banos/MC2755076",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cartagena-de-indias-pie-de-la-popa-5-habitaciones-5-banos-3-garajes/3325-M3243564",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-2-banos-1-garajes/MC2168706",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-vereda-calahorra-3-habitaciones-4-banos-2-garajes/13436-M4156699",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-2-banos-1-garajes/MC2652787",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-conj.-piedra-santa-3-habitaciones-3-banos-3-garajes/10062-M4039426",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-3-banos-1-garajes/2469-M2674626",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-5-habitaciones-5-banos-4-garajes/79-M4039282",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-1-banos/382-628",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-chico-norte-et.-ii-5-habitaciones-2-banos-3-garajes/3038-M4475764",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-3-banos-3-garajes/5413-2396197",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-envigado-envigado-3-habitaciones-4-banos-4-garajes/687-M4329476",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-4-habitaciones-3-banos/3222-M2808177",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-retiro-5-habitaciones-5-banos-2-garajes/687-M4475428",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-3-banos-2-garajes/10222-M3012894",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-bilbao-i-sector-3-habitaciones-1-banos/544-M4475916",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-1-banos-1-garajes/5044-M2509746",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-torca-3-habitaciones-4-banos-4-garajes/2355-M2539632",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-4-habitaciones-3-banos/MC2835897",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-villa-los-pinos-4-habitaciones-5-banos-4-garajes/3155-M3826783",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-2-banos-1-garajes/10300-M2907486",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-3-habitaciones-4-banos-2-garajes/14336-M4408907",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-3-banos/2195-4119",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-casa-blanca-3-habitaciones-5-banos-4-garajes/10967-M3358833",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/495-1474518L8",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-3-habitaciones-4-banos-4-garajes/14336-M3689409",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-2-banos/2363-1972",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-3-habitaciones-4-banos-2-garajes/14336-M3690248",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-2-habitaciones-2-banos/MC2788250",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-3-habitaciones-3-banos-2-garajes/14336-M3996339",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-1-habitaciones-1-banos/MC26037932",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-britalia-3-habitaciones-3-banos-1-garajes/2821-M4469204",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-aguas-1-habitaciones-1-banos-1-garajes/11813-M2986852",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-villa-luz-5-habitaciones-4-banos-1-garajes/505-M4207106",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/5161-1337481",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-el-contador-4-habitaciones-4-banos-3-garajes/2238-M3245284",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-2-banos-1-garajes/989-M2874054",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-santa-barbara-oriental-4-habitaciones-3-banos-3-garajes/13436-M4209563",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos/MC2772453",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-conejera-3-habitaciones-4-banos-2-garajes/9859-M3366303",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos/2821-M3017351",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-normandia-4-habitaciones-4-banos-2-garajes/409-M4472117",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-3-banos-2-garajes/10222-M3009564",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-cajica-4-habitaciones-4-banos-4-garajes/9859-M3369723",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-2-banos-2-garajes/2671-10362",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-chia-portal-de-fusca-5-habitaciones-5-banos-4-garajes/3240-M4210654",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2869222",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cali-condominio-rivera-campestre-3-habitaciones-5-banos-2-garajes/3065-M4321378",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-2-habitaciones-2-banos-1-garajes/2765-M2841162",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cajica-andrea-monte-verde-316_8516001-3-habitaciones-3-banos-4-garajes/2821-M4427442",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-3-banos/MC3059330",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-santa-barbara-alta-4-habitaciones-5-banos-4-garajes/9816-M2873744",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-3-habitaciones-3-banos-2-garajes/10222-M3055969",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-cali-parcelaciones-pance-3-habitaciones-5-banos-4-garajes/15796-M4427133",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-3-habitaciones-2-banos/2363-M2434818",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-san-jose-de-bavaria-4-habitaciones-4-banos-4-garajes/10967-M4210662",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-2-banos/MC2866656",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-barranquilla-5-habitaciones-4-banos-1-garajes/10860-M4475210",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-2-habitaciones-2-banos-2-garajes/11079-2665701",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-cedro-golf-usaquen-3-habitaciones-3-banos-3-garajes/10278-M4475832",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-5-habitaciones-5-banos/MC26123805",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-4-habitaciones-3-banos-3-garajes/73-M4095572",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos-1-garajes/11752-M2861943",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-casa-bogota-bosque-de-pinos-5-habitaciones-5-banos-4-garajes/13674-M3328059",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-veracruz-5-habitaciones-5-banos/34-63358",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-escuela-de-infanteria-3-habitaciones-2-banos-1-garajes/13974-M4150594",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-eduardo-santos-3-habitaciones-2-banos/2363-2398",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-lisboa-3-habitaciones-3-banos-1-garajes/13436-M4475761",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos/MC26101702",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-plenitud-3-habitaciones-4-banos-2-garajes/10797-M4349556",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos/MC26093856",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-barbara-central-4-habitaciones-5-banos-3-garajes/11203-M4066457",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos/34-62399",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-zipaquira-los-sauces-3-habitaciones-2-banos-1-garajes/154-M4018431",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-5-habitaciones-5-banos/34-55670",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-contador-1-habitaciones-2-banos-1-garajes/12734-M4289993",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos/MC2783658",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cajica-3-habitaciones-3-banos-2-garajes/14336-M4408865",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-5-habitaciones-2-banos/MC26071666",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-helena-et.-i-3-habitaciones-4-banos-2-garajes/4698-M4186983",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos-2-garajes/10222-M3028068",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-puente-largo-2-habitaciones-3-banos-2-garajes/2564-M4146606",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-2-banos-1-garajes/4274-M2972500",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-2-habitaciones-2-banos-2-garajes/12037-M4416958",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-2-banos-2-garajes/13173-210721",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-ana-oriental-3-habitaciones-5-banos-3-garajes/523-M2847333",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-1-habitaciones-1-banos/MC26070982",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-1-habitaciones-2-banos-1-garajes/14336-M4205556",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-1-habitaciones-1-banos-1-garajes/507-1030",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-norte-et.-ii-2-habitaciones-3-banos-2-garajes/10139-M4468927",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2675850",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-refugio-3-habitaciones-3-banos-1-garajes/5588-M4423270",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2730186",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cartagena-de-indias-manga-3-habitaciones-4-banos-1-garajes/3325-M3453003",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2693100",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cali-parcelaciones-pance-4-habitaciones-5-banos-2-garajes/15493-M4314680",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2839352",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-batan-2-habitaciones-2-banos-2-garajes/496-M4469902",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2744192",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-los-cedritos-1-habitaciones-1-banos-1-garajes/9894-M4470414",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-4-habitaciones-3-banos-1-garajes/2821-M2769497",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-4-habitaciones-5-banos-3-garajes/523-M3035498",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2737460",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-norte-et.-ii-3-habitaciones-4-banos-3-garajes/3340-M4424379",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2762470",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-los-cedritos-1-habitaciones-1-banos-1-garajes/9859-M4209815",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-4-habitaciones-3-banos-1-garajes/2821-M2716798",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-las-acacias-3-habitaciones-2-banos-2-garajes/3553-M4150271",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-aguas-3-habitaciones-3-banos-1-garajes/VENT-02529402",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-sabaneta-asdesillas-3-habitaciones-3-banos-1-garajes/15740-M4327209",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2732783",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-la-trinidad-2-habitaciones-2-banos/3038-M4475492",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-la-veracruz-1-habitaciones-1-banos/MC2755360",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-la-trinidad-2-habitaciones-2-banos/3038-M4475519",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-las-nieves-1-habitaciones-1-banos-1-garajes/MC2586895",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-refugio-3-habitaciones-4-banos-2-garajes/3553-M4472776",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-la-soledad-norte-3-habitaciones-3-banos-1-garajes/2821-M2757426",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-pereira-pinares-3-habitaciones-2-banos-1-garajes/2808-M4213013",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-casa-bogota-las-aguas-4-habitaciones-4-banos-1-garajes/3072-M2527016",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-los-rosales-3-habitaciones-4-banos-2-garajes/11203-M3889892",
+        "scraped": "True"
     },
     {
-        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-aguas-2-habitaciones-2-banos-2-garajes/10222-627",
-        "scraped": "False"
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-santa-marta-centro-historico-2-habitaciones-3-banos-1-garajes/384-M4455617",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-bibiana-3-habitaciones-4-banos-2-garajes/374-M4295065",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-barbara-occidental-1-habitaciones-2-banos-1-garajes/11203-M4203077",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-norte-3-habitaciones-3-banos-2-garajes/356-M4085124",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-4-habitaciones-5-banos-3-garajes/523-M2909766",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-escuela-de-infanteria-4-habitaciones-4-banos-2-garajes/5545-M4420741",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-3-habitaciones-2-banos-2-garajes/14336-M3922978",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-molinos-norte-3-habitaciones-3-banos-2-garajes/3340-M4309548",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-antiguo-country-3-habitaciones-3-banos-2-garajes/5255-M4469322",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-la-cabrera-2-habitaciones-2-banos-3-garajes/10139-M4469015",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-emaus-3-habitaciones-4-banos-2-garajes/3553-M4096606",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-bibiana-2-habitaciones-3-banos-2-garajes/4969-M4036562",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-nogal-3-habitaciones-5-banos-3-garajes/217-M4039176",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-barbara-central-3-habitaciones-3-banos-1-garajes/898-M4210740",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cajica-cajica-3-habitaciones-2-banos/2884-M4330213",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-sabaneta-asdesillas-3-habitaciones-2-banos-1-garajes/15740-M4327244",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-lisboa-2-habitaciones-3-banos-2-garajes/9894-M4326942",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-refugio-5-habitaciones-5-banos-4-garajes/2412-M4329543",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-cedritos-1-habitaciones-2-banos-1-garajes/3038-M4475733",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-los-cedros-1-habitaciones-2-banos-1-garajes/315-M4475740",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-sabanalarga-3-habitaciones-3-banos-2-garajes/11203-M4475548",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-la-calera-3-habitaciones-4-banos-4-garajes/800-M4473003",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-medellin-san-lucas-3-habitaciones-2-banos-2-garajes/687-M4476123",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-emaus-3-habitaciones-5-banos-4-garajes/3072-M4427923",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-bellavista-2-habitaciones-3-banos-2-garajes/3072-M2704817",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-los-rosales-4-habitaciones-4-banos-3-garajes/356-M3667485",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-tibabita-3-habitaciones-3-banos-1-garajes/14995-M3815499",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-zipaquira-el-prado-3-habitaciones-2-banos-1-garajes/14993-M4440700",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-emaus-4-habitaciones-4-banos-4-garajes/9890-M3679716",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cajica-2-habitaciones-2-banos-1-garajes/14336-M4457085",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-casa-blanca-suba-3-habitaciones-3-banos-3-garajes/384-M4458889",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-el-nogal-3-habitaciones-5-banos-2-garajes/917-M4301943",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-ana-oriental-4-habitaciones-4-banos-3-garajes/523-M2869388",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cajica-3-habitaciones-3-banos-2-garajes/14336-M3994680",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-torres-xiagua-3-habitaciones-2-banos-1-garajes/10062-M4204344",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-3-habitaciones-3-banos-2-garajes/79-M4092272",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-mosquera-2-habitaciones-1-banos/15753-M4468709",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-la-cabrera-2-habitaciones-2-banos-3-garajes/10139-M4468906",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-cedritos-4-habitaciones-5-banos-2-garajes/2996-M2591743",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-3-habitaciones-2-banos-1-garajes/14336-M3703616",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-envigado-el-esmeraldal-3-habitaciones-3-banos-2-garajes/597-M4205703",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-los-rosales-3-habitaciones-5-banos-3-garajes/5255-M2680879",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-chico-norte-et.-ii-2-habitaciones-3-banos-2-garajes/10139-M4469360",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-emaus-3-habitaciones-3-banos-2-garajes/16146-M4469729",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-bellavista-3-habitaciones-4-banos-4-garajes/2359-M4427586",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-bellavista-3-habitaciones-5-banos-3-garajes/15942-M4327869",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-bellavista-3-habitaciones-4-banos-3-garajes/3282-M4330141",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cajica-3-habitaciones-2-banos/10962-M4471654",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-bogota-santa-barbara-occidental-2-habitaciones-2-banos-2-garajes/4698-M4318903",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-cali-aguacatal-2-habitaciones-1-banos-1-garajes/16035-M4424085",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-montearroyo-4-habitaciones-5-banos-3-garajes/374-M2718950",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/venta-apartamento-bogota-los-rosales-4-habitaciones-5-banos-4-garajes/9816-M2874159",
+        "scraped": "True"
+    },
+    {
+        "url": "https://www.metrocuadrado.com/inmueble/arriendo-apartamento-chia-1-habitaciones-2-banos-1-garajes/797-M4160546",
+        "scraped": "True"
     }
 ]
