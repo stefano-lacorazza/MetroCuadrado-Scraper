@@ -44,13 +44,13 @@ class ScrapeDetails():
         soup = BeautifulSoup(content,"html.parser")
         try:
             title_container = soup.find("h1",{"class":"H1-xsrgru-0 jdfXCo mb-2 card-title"})
-            upper_details_container = soup.select('div.Card-sc-18qyd5o-0.gWLCMY.sc-eqIVtm.kXSKZs.sc-cHGsZl.jfOGar')[0].find_all("h2",class_='H2-kplljn-0')
-            lower_details_container = soup.select('div.Card-sc-18qyd5o-0.gWLCMY.sc-eqIVtm.kXSKZs.sc-kjoXOD')[0].find_all("div",{"class":"Col-sc-14ninbu-0"})
+            upper_details_container = soup.select('div.Card-sc-18qyd5o-0.jYfunq.sc-fAjcbJ.huYDUQ.sc-TOsTZ.kWkSDI.feature.mb-4.sc-TOsTZ.kWkSDI.feature.mb-4.card-line.card')[0].find_all("h2",class_='H2-kplljn-0')
+            lower_details_container = soup.select('div.Card-sc-18qyd5o-0.jYfunq.sc-fAjcbJ.huYDUQ.sc-cHGsZl.joqTdM.realstatedata.mb-3.sc-cHGsZl.joqTdM.realstatedata.mb-3.card-details.card')[0].find_all("div",{"class":"Col-sc-14ninbu-0"})
         except:
             return 0
 
         try:
-            characteristics_container = soup.select('div.Card-sc-18qyd5o-0.gWLCMY.sc-eqIVtm.kXSKZs.sc-cJSrbW.kSOVev.featureacordion')[0].find_all("div",{"class":"Card-sc-18qyd5o-0"})
+            characteristics_container = soup.select('div.Card-sc-18qyd5o-0.jYfunq.sc-fAjcbJ.huYDUQ.sc-cJSrbW.kSOVev.featureacordion.mb-5.sc-cJSrbW.kSOVev.featureacordion.mb-5.card-features.card')[0].find_all("div",{"class":"Card-sc-18qyd5o-0"})
             characteristics = True
         except:
             try:
