@@ -59,7 +59,7 @@ if __name__ == '__main__':
         # Get the amount of pages that have to be iterated through
         # Lisitng quantity / Total number of listings
         listings = scraper.GetListingQuantity()
-        numpages = int(listings / 50) + 3
+        numpages = int(listings / 50) + 199
 
         print("Total listings: ",listings)
         print("Total pages to skip: ",numpages)
