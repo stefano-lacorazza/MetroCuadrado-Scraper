@@ -44,6 +44,7 @@ class ScrapeDetails():
         soup = BeautifulSoup(content,"html.parser")
         try:
             title_container = soup.find("h1",{"class":"H1-xsrgru-0 jdfXCo mb-2 card-title"})
+            city_container = soup.find("p",{"class":"P-sc-31hrrf-0 hGwghD card-subtitle"})
             upper_details_container = soup.select('div.Card-sc-18qyd5o-0.jYfunq.sc-fAjcbJ.huYDUQ.sc-TOsTZ.kWkSDI.feature.mb-4.sc-TOsTZ.kWkSDI.feature.mb-4.card-line.card')[0].find_all("h2",class_='H2-kplljn-0')
             lower_details_container = soup.select('div.Card-sc-18qyd5o-0.jYfunq.sc-fAjcbJ.huYDUQ.sc-cHGsZl.joqTdM.realstatedata.mb-3.sc-cHGsZl.joqTdM.realstatedata.mb-3.card-details.card')[0].find_all("div",{"class":"Col-sc-14ninbu-0"})
         except:
@@ -86,6 +87,13 @@ class ScrapeDetails():
                 title = 'PROYECTO '+title
         except:
             title = ''
+
+            # Extract the City
+        try:
+            city = city_container.text
+
+        except:
+            city = ''
 
         # extract the bath_count
         try:
@@ -305,5 +313,5 @@ class ScrapeDetails():
 
         # append the record and write to the file
 
-        self.df.loc[len(self.df)] = [webcode,title,hood,true_hood,price,lease,area,priv_area,status,rooms,garages,baths,antiqueness,interior_char,exterior_char,zone_char,sector_char,longitude,latitude,address,url]
+        self.df.loc[len(self.df)] = [webcode,title,city,hood,true_hood,price,lease,area,priv_area,status,rooms,garages,baths,antiqueness,interior_char,exterior_char,zone_char,sector_char,longitude,latitude,address,url]
         self.df.to_csv(os.path.join(self.LOG_FOLDER,'frame.csv'))
