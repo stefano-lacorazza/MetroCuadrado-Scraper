@@ -1,19 +1,11 @@
-# mc_unal
+
 ### Selenium and BS4 based scraper for [www.metrocuadrado.com](https://www.metrocuadrado.com/)
 ---
 
-## Requerimientos
-
-| Requerimiento  | Version |
-| -------------  |:-------------:|
-| Python             | 3.7.7     |
-| Pip                | 20.1.1    |
-| Google Chrome      | 93        |
 
 ## Configuracion
 
 * Navegar desde la línea de comandos hacia el directorio que contiene el proyecto
-    * ``` cd Desktop/mc_unal```
 
 * Instalar los requerimientos
     * ```pip install -r requirements```
@@ -23,11 +15,9 @@
 * ``` ./logs/urls_cleaned.json ``` (vacio)
 * ```  ./logs/frame.csv ```
 
-    * Contenido inicial ```Codigo Web,Titulo,Barrio,Barrio Catastral,Precio venta,Precio arriendo,Area construida,Area privada,Estrato,Habitaciones,Parqueaderos,Banos,Antiguedad,Interior,Exterior,Zona,Sector,Long,Lat,Direccion,Url ```
+    * Contenido inicial ```Codigo Web, Ciudad, Titulo,Barrio,Barrio Catastral,Precio venta,Precio arriendo,Area construida,Area privada,Estrato,Habitaciones,Parqueaderos,Banos,Antiguedad,Interior,Exterior,Zona,Sector,Long,Lat,Direccion,Url ```
 
 ## Estructura de directorios
-*  ```./ChromeDriverMac``` guarda el driver necesario para controlar Chrome desde python (windows)
-*  ```./ChromeDriverWin``` guarda el driver necesario para controlar Chrome desde python (mac)
 
 <br>
 
@@ -101,3 +91,4 @@ línea de comandos
             * Esperar un tiempo e intentar de nuevo
     * Al finalizar este proceso, se verá reflejada la información en el archivo
 ```./logs/frame.csv```
+# Based oh tne scraoer created by mc_unal, 
