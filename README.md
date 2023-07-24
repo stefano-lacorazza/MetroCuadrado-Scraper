@@ -2,13 +2,10 @@
 ### Selenium and BS4 based scraper for [www.metrocuadrado.com](https://www.metrocuadrado.com/)
 ---
 
-## Requerimientos
-
 
 ## Configuracion
 
 * Navegar desde la línea de comandos hacia el directorio que contiene el proyecto
-    * ``` cd Desktop/mc_unal```
 
 * Instalar los requerimientos
     * ```pip install -r requirements```
@@ -18,11 +15,9 @@
 * ``` ./logs/urls_cleaned.json ``` (vacio)
 * ```  ./logs/frame.csv ```
 
-    * Contenido inicial ```Codigo Web,Titulo,Barrio,Barrio Catastral,Precio venta,Precio arriendo,Area construida,Area privada,Estrato,Habitaciones,Parqueaderos,Banos,Antiguedad,Interior,Exterior,Zona,Sector,Long,Lat,Direccion,Url ```
+    * Contenido inicial ```Codigo Web, Ciudad, Titulo,Barrio,Barrio Catastral,Precio venta,Precio arriendo,Area construida,Area privada,Estrato,Habitaciones,Parqueaderos,Banos,Antiguedad,Interior,Exterior,Zona,Sector,Long,Lat,Direccion,Url ```
 
 ## Estructura de directorios
-*  ```./ChromeDriverMac``` guarda el driver necesario para controlar Chrome desde python (windows)
-*  ```./ChromeDriverWin``` guarda el driver necesario para controlar Chrome desde python (mac)
 
 <br>
 
