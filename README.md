@@ -91,4 +91,4 @@ línea de comandos
             * Esperar un tiempo e intentar de nuevo
     * Al finalizar este proceso, se verá reflejada la información en el archivo
 ```./logs/frame.csv```
-# Based oh tne scraoer created by mc_unal, 
+ Based oh the scraper created by mc_unal, 
