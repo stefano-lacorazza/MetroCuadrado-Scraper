@@ -1,14 +1,9 @@
-# mc_unal
+
 ### Selenium and BS4 based scraper for [www.metrocuadrado.com](https://www.metrocuadrado.com/)
 ---
 
 ## Requerimientos
 
-| Requerimiento  | Version |
-| -------------  |:-------------:|
-| Python             | 3.7.7     |
-| Pip                | 20.1.1    |
-| Google Chrome      | 93        |
 
 ## Configuracion
 
@@ -101,3 +96,4 @@ línea de comandos
             * Esperar un tiempo e intentar de nuevo
     * Al finalizar este proceso, se verá reflejada la información en el archivo
 ```./logs/frame.csv```
+# Based oh tne scraoer created by mc_unal, 
