@@ -36,7 +36,7 @@
 * ```Scrape```
     * Extracts all the data from the records in the  ```urls_cleaned.json```, file and add them to the file ```frame.csv```
 
-## Use
+## Usage
 * Extract the desired URL from  [www.metrocuadrado.com](https://www.metrocuadrado.com/)
     * SSelect the first two search criteria from the different dropdown menus.
     * Input the third criteria and click on the "Search" button.
