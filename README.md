@@ -3,92 +3,73 @@
 ---
 
 
-## Configuracion
+## Config
 
-* Navegar desde la línea de comandos hacia el directorio que contiene el proyecto
 
-* Instalar los requerimientos
+* Install the requirements.
     * ```pip install -r requirements```
 
-## Archivos base
-* ``` ./logs/urls.json ``` (vacio)
-* ``` ./logs/urls_cleaned.json ``` (vacio)
-* ```  ./logs/frame.csv ```
-
-    * Contenido inicial ```Codigo Web, Ciudad, Titulo,Barrio,Barrio Catastral,Precio venta,Precio arriendo,Area construida,Area privada,Estrato,Habitaciones,Parqueaderos,Banos,Antiguedad,Interior,Exterior,Zona,Sector,Long,Lat,Direccion,Url ```
-
-## Estructura de directorios
+## Directory Structure
 
 <br>
 
-* ```./dependencies``` guarda todos los scripts a los cuales el archivo ```main.py``` hace referencia
+* ```./dependencies``` "Saves all the scripts referenced by the file  ```main.py``` 
 
-    *  ```./dependencies/geturls.py``` parte del código específicamente dedicada aextraer las urls específicas de todas las publicaciones en la página dada
+    *  ```./dependencies/geturls.py``` Code segment specifically dedicated to extracting specific URLs from all the posts on the given page
 
-    * ```./dependencies/clean.py``` parte del código específicamente dedicada aremover datos duplicados e inservibles que han sido retornados por la anterior parte
+    * ```./dependencies/clean.py``` Code segment specifically dedicated to removing duplicate and irrelevant data that has been returned by the previous part.
 
-    * ```./dependencies/getdetails.py``` parte del código específicamente dedicada a retornar los detalles de una publicación específica y añadirlos al archivo ```csv``` en la carpeta ```./logs```
+    * ```./dependencies/getdetails.py``` pCode segment specifically dedicated to returning the details of a specific post and adding them to the file. ```csv``` in ```./logs```
 
 <br>
 
-*  ```./logs``` guarda los archivos con datos necesarios para hacer el scraping
-    *  ```./logs/frame.csv``` archivo csv en blanco donde se guardaran todos los datos de las publicaciones.
-    *  ```./logs/urls.json``` archivo json que guarda todas las urls a publicaciones específicas
+*  ```./logs``` Saves the files with necessary data for scraping
+    *  ```./logs/frame.csv``` CSV file where all the publication data are saved.
+    *  ```./logs/urls.json``` JSON file that stores all the URLs to specific publications
 
-    *   ```./logs/urls_cleaned.json``` archivo json que guarda todos los datos de ```./logs/urls.json``` sin ningún elemento duplicado.
-## Funciones
+    *   ```./logs/urls_cleaned.json``` JSON file that stores all the data of ```./logs/urls.json```.
+## Functions
 * ```get```
-    * crea el archivo ```urls.json``` conteniendo todas las urls de la página web que se
-le da como parámetro a esta función.  
+    * Creates the ```urls.json``` file containing all the URLs from the webpage that is passed as a parameter to this function.
 *``` clean```
-    *  filtra el archivo ```urls.json``` con el fin de remover todos resultados duplicados,
-esta función creará el archivo ```urls_cleaned.json```
+    *  Filters the ```urls.json``` file in order to remove all duplicate results. This function will create the  ```urls_cleaned.json``` file
 * ```Scrape```
-    * extrae todos los datos de los registros en el archivo ```urls_cleaned.json```, y los
-añade al archivo ```csv``` ```frame.csv```
+    * Extracts all the data from the records in the  ```urls_cleaned.json```, file and add them to the file ```frame.csv```
 
-## Uso
-* Extraer la url deseada de [www.metrocuadrado.com](https://www.metrocuadrado.com/)
-    * Seleccionar los dos primeros criterios de búsqueda de los diferentes menús
-desplegables, escribir el tercer criterio y hacer click en el botón ```Buscar```
-    * Copiar la ```url``` en la barra buscadora del navegador
+## Use
+* Extract the desired URL from  [www.metrocuadrado.com](https://www.metrocuadrado.com/)
+    * SSelect the first two search criteria from the different dropdown menus.
+    * Input the third criteria and click on the "Search" button.
+    * Copy the URL from the browser's address bar.
 
 <br>
 
 
-* Función ```get```
-    * Desde el directorio del proyecto ejecutar el siguiente comando:
-        * Estructura
-            *  ```python main.py get [url_copiada]```
-        * Ejemplo
+* Function ```get```
+    * From the project directory, execute the following command:
+        
+        *  ```python main.py get [url]```
+        * Example:
             *  ```python main.py get www.metrocuadrado.com/apartamentos-casas/venta/bogota/```
-    * Al finalizar este proceso, se verá reflejada la información en el archivo
+    * Once this process is complete, the information will be reflected in the file:
 ```./logs/urls.json```  
 
 <br>
 
-* Función ```clean```
-    *  Desde el directorio del proyecto ejecutar el siguiente comando:  
+* Function ```clean```
+    *  From the project directory, execute the following command: 
         * ```python main.py clean```
-    * Al finalizar este proceso, se verá reflejada la información en el archivo
+    * Once this process is complete, the information will be reflected in the file:
 ```./logs/urls_cleaned.json```
 
 <br>
 
 
-* Función ```scrape```
-    * Desde el directorio del proyecto ejecutar el siguiente comando:
+* Function ```scrape```
+    * From the project directory, execute the following command: 
         *  ```python main.py scrape [true/false]```
-            * Los parámetros ```true / false``` hacen referencia al uso de la ```API``` de geocodificación de google
-    * Es posible que al iniciar este proceso aparezca siguente error en la
-línea de comandos
-        * Error
-            * ```Resource blocked, change your internetprotocol or try again later```
-        * Soluciones
-            * Cambiar el protocolo de internet (IP)
-                * VPN
-                * Cambio de red wifi
-            * Esperar un tiempo e intentar de nuevo
-    * Al finalizar este proceso, se verá reflejada la información en el archivo
+            * The parameters ```true / false``` hacen referencia al uso de la ```API``` refer to the usage of the Google geocoding API.
+    * 
+At the end of this process, the information will be reflected in the file.
 ```./logs/frame.csv```
- Based oh the scraper created by mc_unal, 
+
